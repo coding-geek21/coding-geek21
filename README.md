@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://media.giphy.com/media/WiDrTMSznIdggL6lyw/giphy.gif" width="300" height="320"  /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/WiDrTMSznIdggL6lyw/giphy.gif" width="320" height="320"  /> </p>
 <h1 align="center">Hi there 👋, I'm Jayapritha</h1>
 
-## Who Am I?
-I am currently pursuing my Bachelors of Engineering under the domain of Computer Science Engineering. I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me forward. I am also an upbeat, ambitious, self-motivated team player and driven person with proven leadership capabilities, who likes to take initiative and seek out new challenges. I thrive on challenges and constantly set goals for myself. So I have something to strive forward and achieve in my life. I am always looking for an opportunity to do better and achieve greatness.
+## About me
+I am currently pursuing my Bachelors of Technology under the domain of Information Techonology.I am highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development. I always want to be perfect in whatever work I do and this makes me successfull and punctual . I am always looking for an opportunity to do better and achieve greatness.
 
-Being a Sophomore , I am still learning and therefore need an opportunity to know more about Open Source.Though I am new, I can vouch for the fact that I am a fast learner with a penchant to both learn and unlearn,(i.e) learning the latest relevant skills, business best practices and corporate etiquette, while letting go of obsolete beliefs, skills and procedures. I also bring with me some fresh ideas and hope to discuss the same with all people out here. I am confident they will find many of them to be quite useful and innovative. I will strive to add maximum value to the people around me - in terms of my eagerness to learn, dedication and strong work ethic - to ensure a mutually beneficial professional partnership.
+I am  new to open source and looking for more opportunites to contribute to open source and know more about Open Source. I have done several projects in front-end development and learning new tech stacks related to web development.
 
 - 📫 How to reach me: jayapritha9282@gmail.com 📩
 - 🌱 I’m currently learning Web development
@@ -60,6 +60,7 @@ Being a Sophomore , I am still learning and therefore need an opportunity to kno
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=coding-geek21&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-geek21&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
