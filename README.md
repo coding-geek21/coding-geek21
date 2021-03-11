@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358" width="500" height="320"  /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/WiDrTMSznIdggL6lyw/giphy.gif" width="500" height="320"  /> </p>
 <h1 align="center">Hi there 👋, I'm Jayapritha</h1>
-<div class="tenor-gif-embed" data-postid="17543358" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358">Cute Animals GIF</a> from <a href="https://tenor.com/search/cute-gifs">Cute GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## Who Am I?
 I am currently pursuing my Bachelors of Engineering under the domain of Computer Science Engineering. I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me forward. I am also an upbeat, ambitious, self-motivated team player and driven person with proven leadership capabilities, who likes to take initiative and seek out new challenges. I thrive on challenges and constantly set goals for myself. So I have something to strive forward and achieve in my life. I am always looking for an opportunity to do better and achieve greatness.
 
