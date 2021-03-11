@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://media.giphy.com/media/WiDrTMSznIdggL6lyw/giphy.giff" width="320" height="320"  /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/WiDrTMSznIdggL6lyw/giphy.gif" width="320" height="320"  /> </p>
 <h1 align="center">Hi there 👋, I'm Jayapritha</h1>
 
 ## About me
@@ -27,7 +27,7 @@ I am  new to open source and looking for more opportunites to contribute to open
 - ⚡ Fun fact: I love solving sudoku.
 - 😄 Pronouns: She\her
 
-<p align="centre"> <img src="https://media.giphy.com/media/MrMcSpqvpIPzr7fFkM/giphy.gif" width="500" height="320" /></p>
+<p align="centre"> <img src="https://media.giphy.com/media/MrMcSpqvpIPzr7fFkM/giphy.gif" width="800" height="320" /></p>
 
 ---
 
