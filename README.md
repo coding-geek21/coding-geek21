@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://media.giphy.com/media/WiDrTMSznIdggL6lyw/giphy.gif" width="500" height="320"  /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/WiDrTMSznIdggL6lyw/giphy.gif" width="300" height="320"  /> </p>
 <h1 align="center">Hi there 👋, I'm Jayapritha</h1>
 
 ## Who Am I?
