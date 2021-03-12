@@ -77,7 +77,7 @@ I am  new to open source and looking for more opportunites to contribute to open
 </details>
 
 <details>
-  <summary>trophy: Github Profile Trophy</summary>
+  <summary>:trophy: Github Profile Trophy</summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=coding-geek21&theme=monokai&row=1&no-frame=true&no-bg=true/">
 </details>
