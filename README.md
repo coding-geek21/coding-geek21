@@ -71,15 +71,15 @@ I am  new to open source and looking for more opportunites to contribute to open
 </details>
 
 <details>
-   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <summary>chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=coding-geek21&theme=xcode" alt="Contribution Graph" align="center" />
 </details>
 
 <details>
-  trophy: Github Profile Trophy
+  <summary>trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=alphaX86&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <img src="https://github-profile-trophy.vercel.app/?username=coding-geek21&theme=monokai&row=1&no-frame=true&no-bg=true/">
 </details>
                                                                                                                                       
 <details>
