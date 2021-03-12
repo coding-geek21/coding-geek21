@@ -70,11 +70,10 @@ I am  new to open source and looking for more opportunites to contribute to open
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
 
-<details>
-   <summary>chart_with_upwards_trend: Contribution Graph </summary>
+   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=coding-geek21&theme=xcode" alt="Contribution Graph" align="center" />
-</details>
+
 
 <details>
   <summary>:trophy: Github Profile Trophy</summary>
