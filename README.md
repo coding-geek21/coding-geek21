@@ -66,11 +66,10 @@ I am  new to open source and looking for more opportunites to contribute to open
   <img src="https://github-readme-stats.vercel.app/api?username=coding-geek21&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-geek21&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
-  <br/>
-  <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
   <br/>
   <br/>
+  
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=coding-geek21&theme=xcode" alt="Contribution Graph" align="center" />
