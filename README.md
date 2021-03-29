@@ -47,9 +47,7 @@ I am  new to open source and looking for more opportunites to contribute to open
 
 ---
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="coding-geek21" />
- </p>
+![Profile views](https://gpvc.arturio.dev/[coding-geek21])
 
 ---
 
