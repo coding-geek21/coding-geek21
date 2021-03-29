@@ -47,7 +47,7 @@ I am  new to open source and looking for more opportunites to contribute to open
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/[coding-geek21])
+![Profile views](https://gpvc.arturio.dev/coding-geek21)
 
 ---
 
