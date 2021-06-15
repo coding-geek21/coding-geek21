@@ -33,7 +33,7 @@ I am  new to open source and looking for more opportunites to contribute to open
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/jayapritha-n-32aa79185/">
+<a href="#">
   <img align="left" alt="Jayapritha's" | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ja_yo.pritha/">
