@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Jayapritha</h1>
 
 ## About me
-I am currently pursuing my Bachelors of Technology under the domain of Information Techonology.I am highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development. I always want to be perfect in whatever work I do and this makes me successfull and punctual . I am always looking for an opportunity to do better and achieve greatness.
+I am currently pursuing my Bachelors of Technology under the domain of Information Techonology.I am highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.
 
-I am  new to open source and looking for more opportunites to contribute to open source and know more about Open Source. I have done several projects in front-end development and learning new tech stacks related to web development.
+I am looking for more opportunites to contribute to open source. I have done several projects in front-end development and learning new tech stacks related to web development.
 
 - 📫 How to reach me: jayapritha9282@gmail.com 📩
 - 🌱 I’m currently learning Web development
