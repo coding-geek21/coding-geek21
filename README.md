@@ -64,15 +64,14 @@ I am looking for more opportunites to contribute to open source. I have done sev
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/muthuannamalai12/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/coding-geek21/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/coding-geek21/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muthu Annamalai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayapritha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 ---
-
 
 ## 📊 My Github stats
 
