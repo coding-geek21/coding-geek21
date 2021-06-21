@@ -62,34 +62,34 @@ I am looking for more opportunites to contribute to open source. I have done sev
 
 ---
 
-## :bar_chart: My GitHub Stats
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/muthuannamalai12/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/coding-geek21/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muthu Annamalai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muthuannamalai12&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+---
 
 
-  <summary>:chart_with_upwards_trend: Profile Stats</summary>
+## 📊 My Github stats
+
+<details>
+  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=coding-geek21&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-geek21&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
-  <br/>
-  <br/>
-  
-  <details>  
+</details>
+
+<details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=coding-geek21&theme=xcode" alt="Contribution Graph" align="center" />
-  </details>
-
-  <summary>:trophy: Github Profile Trophy</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=coding-geek21&theme=monokai&row=1&no-frame=true&no-bg=true/">
-
-                                                                                                                                      
-
-  <summary>:fire: GitHub Streak</summary>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
-
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jayapritha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coding-geek21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>                                                                                     
 
 
 
