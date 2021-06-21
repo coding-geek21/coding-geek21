@@ -90,5 +90,11 @@ I am looking for more opportunites to contribute to open source. I have done sev
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jayapritha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coding-geek21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>                                                                                     
 
+<details>
+   <summary>:chart_with_upwards_trend: Github Trophies </summary>
+   <br/>
+  <img alt="Jayapritha's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=coding-geek21&theme=monokai" />
+</details>  
+
 
 
