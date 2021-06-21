@@ -76,7 +76,7 @@ I am looking for more opportunites to contribute to open source. I have done sev
 ## 📊 My Github stats
 
 <details>
-  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
+  <summary>🌟 GitHub Profile Stats</summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=coding-geek21&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-geek21&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
@@ -91,7 +91,7 @@ I am looking for more opportunites to contribute to open source. I have done sev
 </details>                                                                                     
 
 <details>
-   <summary>:chart_with_upwards_trend: Github Trophies </summary>
+   <summary>🏆 Github Trophies </summary>
    <br/>
   <img alt="Jayapritha's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=coding-geek21&theme=monokai" />
 </details>  
