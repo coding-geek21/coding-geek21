@@ -34,13 +34,13 @@ I am looking for more opportunites to contribute to open source. I have done sev
 ### Connect with me:
 
 <a href="#">
-  <img align="center" alt="Jayapritha's" | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jayapritha's" | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ja_yo.pritha/">
-  <img align="center" alt="Jayapritha's" | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img align="left" alt="Jayapritha's" | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 <a href="https://www.facebook.com/jaya.pritha.777/">
-  <img align="center" alt="jayapritha's | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png" />
+  <img align="left" alt="jayapritha's | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png" />
 </a>
 
 <br />
