@@ -2,7 +2,7 @@
 <br>
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 
-<h2 align="center"> ✨ About me </h2>
+<h2 align=""> ✨ About me </h2>
 I am currently pursuing my Bachelors of Technology under the domain of Information Techonology.I am highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.
 
 I am looking for more opportunites to contribute to open source. I have done several projects in front-end development and learning new tech stacks related to web development.
@@ -34,9 +34,6 @@ I am looking for more opportunites to contribute to open source. I have done sev
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
 </p>
-
-<br />
-<br />
 
 <h2 align="left"> ⚡️ Technology Stacks </h2>
                   
