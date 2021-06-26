@@ -1,7 +1,7 @@
 <h1 align="center">Hi ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Jayapritha</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+enthusiast;Front-end+Web+developer;Django+Developer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Django+Developer&center=true&width=380&height=45"></a>
 </p>
 
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
@@ -48,6 +48,10 @@ I am looking for more opportunites to contribute to open source. I have done sev
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
+<code><img height="40" src="https://th.bing.com/th/id/OIP.pkqphAig1t-PCsy4dkVrfAHaD5?pid=ImgDet&rs=1"></code>
+<code><img height="40" src="https://th.bing.com/th/id/OIP.e2Wc2adUMgEZTbQ4WM9PEwHaDS?pid=ImgDet&rs=1"></code>
+<code><img height="40" src="https://alternative.me/media/256/django-icon-2jqi6c39eg9fnfmv-c.png"></code>
 </p>
 
 <br />
