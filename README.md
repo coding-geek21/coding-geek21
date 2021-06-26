@@ -25,7 +25,7 @@ I am looking for more opportunites to contribute to open source. I have done sev
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate with other with open source projects
 - 🥅 Goals: Contribute more to Open Source projects in 2021, Learn DSA and competitive programming 
-- 🎉 Let's connect [here](https://linktr.ee/Adyasha8105).
+- 🎉 Let's connect [here](https://www.linkedin.com/in/jayapritha-n-32aa79185/).
 - 😄 Pronouns: She\her
 
 <p align="centre"> <img src="https://media.giphy.com/media/MrMcSpqvpIPzr7fFkM/giphy.gif" width="800" height="320" /></p>
