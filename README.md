@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋🏻, I am Jayapritha</h1>
+<h2 align="center">Hi ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Jayapritha</h2>
 <br>
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 
-## ✨ About me
+<h2 align="center"> ✨ About me </h2>
 I am currently pursuing my Bachelors of Technology under the domain of Information Techonology.I am highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.
 
 I am looking for more opportunites to contribute to open source. I have done several projects in front-end development and learning new tech stacks related to web development.
@@ -14,43 +14,48 @@ I am looking for more opportunites to contribute to open source. I have done sev
 - 🎉 Let's connect [here](https://www.linkedin.com/in/jayapritha-n-32aa79185/).
 - 📫 How to reach me: jayapritha9282@gmail.com 📩
 - 😄 Pronouns: She\her
-
-## 🤝🏻 Connect with me
-
-<a href="#">
-  <img align="left" alt="Jayapritha's" | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ja_yo.pritha/">
-  <img align="left" alt="Jayapritha's" | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
-</a>
-<a href="https://www.facebook.com/jaya.pritha.777/">
-  <img align="left" alt="jayapritha's | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png" />
-</a>
-
-<br />
-<br />
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/coding-geek21)
 
-## ⚡️ Technology Stacks
+<h2 align="left"> 🤝🏻 Connect with me </h2>
 
+<p align="left">
+  <a href="#">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.instagram.com/ja_yo.pritha/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
+  <a href="https://www.facebook.com/jaya.pritha.777/">
+      <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  </a>
+</p>
+
+<br />
+<br />
+
+<h2 align="left"> ⚡️ Technology Stacks </h2>
+                  
+<p align="left">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+</p>
 
 <br />
 
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=coding-geek21&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-geek21&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
  
 <hr>
 
-## 📊 My Github stats
+### 📊 My Github stats
 
 <details>
   <summary>🌟 GitHub Profile Stats</summary>
