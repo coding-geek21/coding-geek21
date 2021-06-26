@@ -1,5 +1,9 @@
 <h1 align="center">Hi ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Jayapritha</h1>
-<br>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+enthusiast;Front-end+Web+developer;Django+Developer&center=true&width=380&height=45"></a>
+</p>
+
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 
 <h2 align=""> ✨ About me </h2>
@@ -12,6 +16,7 @@ I am looking for more opportunites to contribute to open source. I have done sev
 - 👯 I’m looking to collaborate with other with open source projects
 - 🥅 Goals: Contribute more to Open Source projects in 2021, Learn DSA and competitive programming 
 - 🎉 Let's connect [here](https://www.linkedin.com/in/jayapritha-n-32aa79185/).
+- 🌟 Contributed to open source programs like GSSoC'21 and LGM-SoC'21
 - 📫 How to reach me: jayapritha9282@gmail.com 📩
 - 😄 Pronouns: She\her
 <br>
