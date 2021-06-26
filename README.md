@@ -43,15 +43,16 @@ I am looking for more opportunites to contribute to open source. I have done sev
 <h2 align="left"> ⚡️ Technology Stacks </h2>
                   
 <p align="left">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
-<code><img height="40" src="https://th.bing.com/th/id/OIP.pkqphAig1t-PCsy4dkVrfAHaD5?pid=ImgDet&rs=1"></code>
-<code><img height="40" src="https://th.bing.com/th/id/OIP.e2Wc2adUMgEZTbQ4WM9PEwHaDS?pid=ImgDet&rs=1"></code>
-<code><img height="40" src="https://alternative.me/media/256/django-icon-2jqi6c39eg9fnfmv-c.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
 </p>
 
 <br />
