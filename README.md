@@ -30,6 +30,9 @@ I am looking for more opportunites to contribute to open source. I have done sev
   <a href="https://www.facebook.com/jaya.pritha.777/">
       <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
   </a>
+  <a href="mailto:jayapritha9282@gmail.com">
+     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
 </p>
 
 <br />
