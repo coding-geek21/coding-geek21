@@ -61,7 +61,7 @@ I am looking for more opportunites to contribute to open source. I have done sev
   <summary>🔥 GitHub Streak</summary>
   <br/>
    <a href="https://github.com/coding-geek21/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayapritha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=monokai-metallian&hide_border=true"/>
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayapritha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=jolly&hide_border=true"/>
   </a>
   <br/>
 </details>
