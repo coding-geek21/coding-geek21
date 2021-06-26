@@ -21,10 +21,11 @@ I am currently pursuing my Bachelors of Technology under the domain of Informati
 I am looking for more opportunites to contribute to open source. I have done several projects in front-end development and learning new tech stacks related to web development.
 
 - 📫 How to reach me: jayapritha9282@gmail.com 📩
-- 🌱 I’m currently learning Web development
+- 🤩 I’m always trying to grow and learn something new.
+- 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate with other with open source projects
 - 🥅 Goals: Contribute more to Open Source projects in 2021, Learn DSA and competitive programming 
-- ⚡ Fun fact: I love solving sudoku.
+- 🎉 Let's connect [here](https://linktr.ee/Adyasha8105).
 - 😄 Pronouns: She\her
 
 <p align="centre"> <img src="https://media.giphy.com/media/MrMcSpqvpIPzr7fFkM/giphy.gif" width="800" height="320" /></p>
