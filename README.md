@@ -23,9 +23,24 @@ I am looking for more opportunites to contribute to open source. I have done sev
 
 ![Profile views](https://gpvc.arturio.dev/coding-geek21)
 
-<h2 align="left"> 🤝🏻 Connect with me </h2>
+<h2 align="center"> ⚡️ Technology Stacks </h2>
+                  
+<p align="center">
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
+</p>
 
-<p align="left">
+<h2 align="center"> 🤝🏻 Connect with me </h2>
+
+<p align="center">
   <a href="#">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
@@ -38,21 +53,6 @@ I am looking for more opportunites to contribute to open source. I have done sev
   <a href="mailto:jayapritha9282@gmail.com">
      <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
-</p>
-
-<h2 align="left"> ⚡️ Technology Stacks </h2>
-                  
-<p align="left">
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
 </p>
 
 <br />
