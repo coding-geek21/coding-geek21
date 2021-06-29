@@ -41,7 +41,7 @@ I am looking for more opportunites to contribute to open source. I have done sev
 <h2 align="center"> 🤝🏻 Connect with me </h2>
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/jayapritha-n-32aa79185/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.instagram.com/ja_yo.pritha/">
