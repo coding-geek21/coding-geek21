@@ -12,7 +12,7 @@ I am currently pursuing my Bachelors of Technology under the domain of Informati
 I am looking for more opportunites to contribute to open source. I have done several projects in front-end development and learning new tech stacks related to web development.
 
 - 🤩 I’m always trying to grow and learn something new.
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and React
 - 👯 I’m looking to collaborate with other with open source projects
 - 🥅 Goals: Contribute more to Open Source projects in 2021, Learn DSA and competitive programming 
 - 🎉 Let's connect [here](https://www.linkedin.com/in/jayapritha-n-32aa79185/).
