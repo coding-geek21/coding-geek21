@@ -32,6 +32,8 @@ I'm looking for more opportunites to contribute to open source. I have done seve
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
