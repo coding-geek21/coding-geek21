@@ -12,7 +12,7 @@ I'm currently pursuing my Bachelors of Technology under the domain of Informatio
 I'm looking for more opportunites to contribute to open source. I have done several projects in front-end development and learning new tech stacks related to web development.
 
 - 🤩 I always try to explore and learn something new.
-- 🌱 I’m currently learning DSA and React
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate with other with open source projects
 - 🥅 Goals: Contribute more to Open Source projects in 2021, Learn DSA and competitive programming 
 - 🎉 Let's connect [here](https://www.linkedin.com/in/jayapritha-n-32aa79185/).
@@ -20,8 +20,6 @@ I'm looking for more opportunites to contribute to open source. I have done seve
 - 📫 How to reach me: jayapritha9282@gmail.com 📩
 - 😄 Pronouns: She\her
 <br>
-
-![Profile views](https://gpvc.arturio.dev/coding-geek21)
 
 <h2 align="center"> ⚡️ Technology Stacks </h2>
                   
@@ -76,14 +74,7 @@ I'm looking for more opportunites to contribute to open source. I have done seve
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayapritha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=jolly&hide_border=true"/>
   </a>
   <br/>
-</details>
-
-<details>
-   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jayapritha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coding-geek21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>                                                                                     
-
+</details>                                                                          
 <details>
    <summary>🏆 Github Trophies </summary>
    <br/>
